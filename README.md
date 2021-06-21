@@ -1,7 +1,6 @@
-# London Network Automation Meetup June 2021
-Repository for London Network Automation Meetup - June 2021
+# London Network Automation Meetup #13 (June 2021)
 
-This repsitory contains the files used for the London Network Automation Meetup in June 2021 presentation by me.
+This repsitory contains the files used for the London Network Automation Meetup #13 in June 2021 (https://www.meetup.com/London-Network-Automation-Meetup/events/278803429/) presentation by me.
 
 ## Instruction for Jupyter Notebook installation
 
